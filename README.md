@@ -24,4 +24,4 @@ This project demonstrates how to train a Gymnasium `CartPole-v1` agent by bootst
 
 ## 🎥 Video Walkthrough
 Watch the full breakdown and explanation of this project on YouTube:
-[Watch the Tutorial on YouTube](https://youtu.be/MNw-busuMHY?si=MqMU2BWAc8ZMSUsb)
+[![CartPole Behavioral Cloning Tutorial](https://img.youtube.com/vi/MNw-busuMHY/maxresdefault.jpg)](https://youtu.be/MNw-busuMHY)
