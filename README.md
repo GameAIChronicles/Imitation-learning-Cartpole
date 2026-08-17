@@ -21,3 +21,7 @@ This project demonstrates how to train a Gymnasium `CartPole-v1` agent by bootst
 *   `expert_data_sample.py`: Script to collect observation and action data from the expert model[cite: 4].
 *   `bc_imitation.py`: Main script to train the Behavioral Cloning agent and fine-tune it with PPO[cite: 1].
 *   `env.py` / `test.py`: Scripts used to render the environment and run basic random action sampling tests[cite: 3].
+
+## 🎥 Video Walkthrough
+Watch the full breakdown and explanation of this project on YouTube:
+[Watch the Tutorial on YouTube](https://youtu.be/MNw-busuMHY?si=MqMU2BWAc8ZMSUsb)
